@@ -21,7 +21,7 @@ o	Ensure the design allows me to add more types of fish in the future without ha
 
 ## Answers
 
-Question 1 Answer
+# Question 1 Answer
 To maintain code quality:
 - code review process on every story(branch) before merging with master
 - have code standards agreed in the team; There are many principles we need to keep in
@@ -43,7 +43,7 @@ To maintain code stability:
 - before deployment test on mirror of live environment – staging – include performance
 testing here
 - having role-back deployment process in place
-Question 2 Answer
+# Question 2 Answer
 In the described situation is not allowed to have downtime.
 There are many cloud providers that allow easily configurable zero downtime deployments;
 In Azure, kubernetes running on azure or AWS, the principle is the same.
