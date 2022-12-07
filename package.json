@@ -13,7 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.16.0",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "@types/jasmine": "^3.5.10",
     "jasmine": "^3.5.0",
     "nyc": "^15.0.1",
@@ -23,7 +23,7 @@
   "dependencies": {
     "jasmine-node": "^3.0.0",
     "@types/express": "^4.16.0",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "ts-node-dev": "^1.0.0-pre.30",
     "typescript": "^3.1.1"
   }
